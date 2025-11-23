@@ -19,11 +19,11 @@ El sistema almacena todos los archivos (PDFs e imágenes de vista previa) de for
   
   ![Dashboard](img/Dashboard.JPG)
   ![Registro](img/Registro.JPG)
-  ![Edición](img/Edicion.JPG)  
+  ![Edición](img/Modelo_IA.JPG)  
 - **Almacenamiento Local de Archivos:** PDFs e imágenes de vista previa en `/media/`.  
 - **Extracción de Datos con IA:** Modelo basado en *TensorFlow* y *NLTK*.
 
-  ![Modelo IA](img/Modelo_IA.JPG)
+  ![Modelo IA](img/Edicion.JPG)
   ![Extracción](img/Editar.JPG)  
 - **Generación Automática de Vistas Previas:** Miniaturas creadas a partir de la portada del PDF.  
 - **Panel de Administración:** Interfaz para gestionar registros y realizar búsquedas eficientes.
