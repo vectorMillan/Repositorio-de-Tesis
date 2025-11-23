@@ -24,7 +24,7 @@ El sistema almacena todos los archivos (PDFs e imágenes de vista previa) de for
 - **Extracción de Datos con IA:** Modelo basado en *TensorFlow* y *NLTK*.
 
   ![Modelo IA](img/Modelo_IA.JPG)
-  ![Extracción](img/Extraccion.JPG)  
+  ![Extracción](img/Editar.JPG)  
 - **Generación Automática de Vistas Previas:** Miniaturas creadas a partir de la portada del PDF.  
 - **Panel de Administración:** Interfaz para gestionar registros y realizar búsquedas eficientes.
 
